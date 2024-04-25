@@ -1,0 +1,55 @@
+.header{
+
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+
+}
+.mainbody{
+    background-color: whitesmoke
+}
+
+.footer{
+    position: fixed;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 25px;
+    line-height: 25px;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.common{
+    text-align: center;
+    font-family: arial, Arial, Helvetica, sans-serif;
+
+}
+.nav{
+background-color: lightgray;
+padding: 10px;
+overflow: hidden;
+}
+
+nav a{
+    padding: 15px;
+    text-decoration: None;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+
+}
+
+nav a:hover{
+    background-color: #ccc;
+
+}
